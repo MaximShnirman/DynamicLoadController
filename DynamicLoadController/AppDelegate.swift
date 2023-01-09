@@ -3,6 +3,7 @@
 //  DynamicLoadController
 //
 //  Created by Maxim Shnirman on 04/01/2023.
+//  Copyright © 2023 Maxim Shnirman. All rights reserved.
 //
 
 import UIKit

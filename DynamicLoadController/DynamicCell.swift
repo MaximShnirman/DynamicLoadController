@@ -1,9 +1,9 @@
 //
 //  DynamicCell.swift
-//  PendoLegacyDevelopmentApp
+//  DynamicLoadController
 //
 //  Created by Maxim Shnirman on 24/12/2020.
-//  Copyright © 2020 Pendo.io. All rights reserved.
+//  Copyright © 2023 Maxim Shnirman. All rights reserved.
 //
 
 import UIKit
